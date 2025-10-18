@@ -8,3 +8,4 @@ Projects I worked on while attending the Business Intelligence Analysis TripleTe
 | 2 | Project Superstore Datasets | The project task was to study the average sales and return rates to determine what can be retained or not, and needs further attention. |
 | 3 | Superstore Presentation | The project task was to create a story from the results with texts and charts along with recording to explain comprehensive return analysls. |
 | 4 | Shopify Project | The Power BI project task was to help client with data analysis on app ratings that're stable when over 4 stars and those under suggests the need for market stabilization. |
+| 5 | Report and Dashboard Submission | Zomato Sales Analysis Dashboard | A Tableau dashboard analyzing sales performance for Zomato, a multinational restaurant aggregator and food delivery platform. This project delivers actionable insights through interactive visualizations and comprehensive reporting.
